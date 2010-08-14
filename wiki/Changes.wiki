@@ -1,1 +1,9 @@
 #labels Featured
+
+
+Version 0.0.1
+August 14, 2010
+
+  * Initial release
+
+
