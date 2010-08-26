@@ -1,5 +1,15 @@
 #labels Featured
 
+Version 0.0.2
+August 26, 2010
+
+Changes:
+  * Add support for embedded URLs
+
+Bugfixes:
+  * Load proxy settings from *_proxy environment variables
+  * Title parsing failed with ampersands
+
 
 Version 0.0.1
 August 14, 2010
