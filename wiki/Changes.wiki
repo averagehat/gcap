@@ -1,4 +1,13 @@
+#summary Revision history for gcap
 #labels Featured
+
+0.0.4  Sun Oct 31 2010  legatvs
+{{{
+Changes:
+        - Add missing COPYING
+        - Add t/gcap-Pod.t
+        - Use "version" module
+}}}
 
 Version 0.0.3
 September 28, 2010
