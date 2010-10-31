@@ -22,7 +22,7 @@ Changes:
   * Add support for embedded URLs
 
 Bugfixes:
-  * Load proxy settings from *_proxy environment variables
+  * Load proxy settings from http_proxy environment variables
   * Title parsing failed with ampersands
 
 
@@ -30,5 +30,3 @@ Version 0.0.1
 August 14, 2010
 
   * Initial release
-
-
