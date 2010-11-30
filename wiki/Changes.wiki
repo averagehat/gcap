@@ -1,6 +1,16 @@
 #summary Revision history for gcap
 #labels Featured
 
+0.0.5  Tue Nov 30 2010  legatvs
+{{{
+Changes:
+        - Add --quiet
+        - Add --proxy, --no-proxy
+Bugfixes:
+        - Fix "Nested quantifiers in regex" with Perl 5.8
+            - Ported from grake, see <http://is.gd/hZj5f>
+}}}
+
 0.0.4  Sun Oct 31 2010  legatvs
 {{{
 Changes:
