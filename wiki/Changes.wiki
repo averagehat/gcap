@@ -1,32 +1,36 @@
 #summary Revision history for gcap
 #labels Featured
 
-0.0.5  Tue Nov 30 2010  legatvs
-{{{
+=== 0.0.6  Sun Feb 20 2011  Toni Gundogdu ===
+
 Changes:
-        - Add --quiet
-        - Add --proxy, --no-proxy
+        * Add HTML::Entities prerequisite
+        * Add man1/gcap.1.pod
 Bugfixes:
-        - Fix "Nested quantifiers in regex" with Perl 5.8
-            - Ported from grake, see <http://is.gd/hZj5f>
-}}}
+        * Decode HTML entities (issue #2)
 
-0.0.4  Sun Oct 31 2010  legatvs
-{{{
+===0.0.5  Tue Nov 30 2010  legatvs ===
+
 Changes:
-        - Add missing COPYING
-        - Add t/gcap-Pod.t
-        - Use "version" module
-}}}
+        * Add --quiet
+        * Add --proxy, --no-proxy
+Bugfixes:
+        * Fix "Nested quantifiers in regex" with Perl 5.8
+          * Ported from grake, see <http://is.gd/hZj5f>
 
-Version 0.0.3
-September 28, 2010
+=== 0.0.4  Sun Oct 31 2010  legatvs ===
+
+Changes:
+        * Add missing COPYING
+        * Add t/gcap-Pod.t
+        * Use "version" module
+
+=== Version 0.0.3  September 28, 2010 ===
 
 Changes:
   * Update synopsis, help strings
 
-Version 0.0.2
-August 26, 2010
+=== Version 0.0.2  August 26, 2010 ===
 
 Changes:
   * Add support for embedded URLs
@@ -35,8 +39,6 @@ Bugfixes:
   * Load proxy settings from http_proxy environment variables
   * Title parsing failed with ampersands
 
-
-Version 0.0.1
-August 14, 2010
+=== Version 0.0.1  August 14, 2010 ===
 
   * Initial release
