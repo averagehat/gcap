@@ -1,6 +1,11 @@
 #summary Revision history for gcap
 #labels Featured
 
+=== 0.0.7  Thu Mar 03 2011  Toni Gundogdu ===
+Bugfixes:
+        * Allow use of video IDs starting with dash (issue #3)
+
+
 === 0.0.6  Sun Feb 20 2011  Toni Gundogdu ===
 
 Changes:
