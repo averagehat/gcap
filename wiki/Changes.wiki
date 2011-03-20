@@ -1,6 +1,13 @@
 #summary Revision history for gcap
 #labels Featured
 
+=== 0.0.8  Sun Mar 20 2011  Toni Gundogdu ===
+Changes:
+        * Print page URL instead of GVI URL with error messages
+        * Extend URL pattern to cover the new "/embed/"
+Bugfixes:
+        * Empty captition queue check (e.g. ignore -i if empty)
+
 === 0.0.7  Thu Mar 03 2011  Toni Gundogdu ===
 Bugfixes:
         * Allow use of video IDs starting with dash (issue #3)
