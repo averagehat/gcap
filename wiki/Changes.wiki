@@ -6,7 +6,7 @@ Changes:
     * use Perl 5.10.1+
     * use Umph::Prompt with --interactive
         * Makes several improvements to the (old) prompt
-        * Get it from <http://umph.googlecode.com/> for now
+        * Get it from http://umph.googlecode.com/ for now
 
 === 0.0.8  Sun Mar 20 2011  Toni Gundogdu ===
 Changes:
