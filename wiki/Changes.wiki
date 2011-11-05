@@ -1,6 +1,10 @@
 #summary Revision history for gcap
 #labels Featured
 
+== Note ==
+
+The release notes are no longer duplicated in this page. Please see the [http://repo.or.cz/w/gcap.git/blob/HEAD:/NEWS NEWS] in the repository, instead.
+
 === 0.1.0  Thu Sep 01 2011  Toni Gundogdu ===
 Changes:
     * use Perl 5.10.1+
